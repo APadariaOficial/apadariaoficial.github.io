@@ -1,0 +1,3 @@
+Coloque aqui as fotos dos produtos (jpg ou png).
+Depois, no arquivo dados/dados.json, informe o caminho no campo "foto" do produto, ex.:
+"foto": "assets/img/produtos/croissant.jpg"

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" viewBox="0 0 180 180">
+  <g fill="none" stroke="#F77315" stroke-width="3.4" stroke-linecap="round" opacity="0.16">
+    <!-- squiggle -->
+    <path d="M14 30 q7 -12 14 0 q7 12 14 0 q7 -12 14 0"/>
+    <!-- diagonal line -->
+    <path d="M120 18 L152 40"/>
+    <!-- arc -->
+    <path d="M20 118 q22 -22 44 0"/>
+    <!-- diagonal line -->
+    <path d="M126 108 L150 150"/>
+    <!-- squiggle -->
+    <path d="M96 138 q7 -12 14 0 q7 12 14 0 q7 -12 14 0"/>
+    <!-- arc down -->
+    <path d="M96 74 q22 22 44 0"/>
+    <!-- diagonal -->
+    <path d="M20 150 L44 168"/>
+  </g>
+</svg>

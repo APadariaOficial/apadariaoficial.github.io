@@ -1,0 +1,463 @@
+{
+  "marca": {
+    "nome": "A PADARIA",
+    "assinatura": "por Patrícia Drumond",
+    "chamada_hero": "Pão de fermentação natural, fornadas fresquinhas e o cafézinho pra acompanhar.",
+    "sobre": [
+      "De quarta-feira a sábado, A Padaria está aberta com fornadas ao longo do dia. As fornadas disponíveis são divulgadas pelo Instagram e WhatsApp.",
+      "Você pode escolher seus produtos diretamente na loja, reservar seu pedido antecipadamente para retirada ou fazer sua encomenda e receber em casa.",
+      "Estamos na Av. Luiz Paulo Franco, 595, no Belvedere, em Belo Horizonte. Funcionamos de quarta-feira a sábado, das 9h às 18h."
+    ],
+    "encomendas": [
+      "Para fazer sua encomenda, é só chamar a gente pelo WhatsApp, no número (31) 97259-8959, e enviar os produtos que deseja, seu nome e endereço para entrega.",
+      "Realizamos entregas em Belo Horizonte e região. Após conferirmos as informações do pedido, enviaremos a confirmação e os dados para pagamento. A entrega será confirmada após o recebimento do comprovante de pagamento via Pix."
+    ]
+  },
+  "contato": {
+    "whatsapp_numero": "5531972598959",
+    "whatsapp_exibicao": "(31) 97259-8959",
+    "instagram_user": "apadariabypatriciadrumond",
+    "instagram_url": "https://instagram.com/apadariabypatriciadrumond",
+    "endereco_linha1": "Av. Luiz Paulo Franco, 595 — Belvedere",
+    "endereco_linha2": "Belo Horizonte — MG, 30320-570",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Av.+Luiz+Paulo+Franco,+595+-+Belvedere,+Belo+Horizonte+-+MG,+30320-570",
+    "horario_dias": "De quarta-feira a sábado",
+    "horario_horas": "das 09h às 18h"
+  },
+  "categorias": [
+    {
+      "nome": "Pães",
+      "produtos": [
+        {
+          "nome": "100% Integral",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Australiano",
+          "tipo": "Unidade",
+          "preco": 20.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Babka de Ervas Grande",
+          "tipo": "Unidade",
+          "preco": 44.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Babka de Ervas Pequena",
+          "tipo": "Unidade",
+          "preco": 20.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Babka de Chocolate Meio Amargo Grande",
+          "tipo": "Unidade",
+          "preco": 44.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Babka de Chocolate Meio Amargo Pequena",
+          "tipo": "Unidade",
+          "preco": 20.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Baguetinha Gruyère",
+          "tipo": "Unidade",
+          "preco": 17.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Baguetinha Italiana",
+          "tipo": "Unidade",
+          "preco": 17.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Batata-Roxa com Castanha-do-Pará Grande",
+          "tipo": "Unidade",
+          "preco": 52.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Batata-Roxa com Castanha-do-Pará Média",
+          "tipo": "Unidade",
+          "preco": 42.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Brioche de Laranja com Chocolate Branco Grande",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Brioche de Laranja com Chocolate Branco Pequeno",
+          "tipo": "Unidade",
+          "preco": 18.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Cubo de Abóbora",
+          "tipo": "Unidade",
+          "preco": 20.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Espiga de Ora-pro-Nóbis e Calabresa",
+          "tipo": "Unidade",
+          "preco": 30.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Flor de Canela",
+          "tipo": "Unidade",
+          "preco": 18.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Focaccia Grande",
+          "tipo": "Unidade",
+          "preco": 46.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Focaccia Média",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Focaccina",
+          "tipo": "Unidade",
+          "preco": 20.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Gorgonzola com Damasco Grande",
+          "tipo": "Unidade",
+          "preco": 46.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Gorgonzola com Damasco Média",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Italiano Rústico",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Multigrãos",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Mini de Abóbora 10 un. Pacote",
+          "tipo": "Pacote",
+          "preco": 45.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Mini Australiano 10 un. Pacote",
+          "tipo": "Pacote",
+          "preco": 39.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Mini de Batata 10 un. Pacote",
+          "tipo": "Pacote",
+          "preco": 39.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Mini de Milho 10 un. Pacote",
+          "tipo": "Pacote",
+          "preco": 39.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Mini Semi-integral 10 un. Pacote",
+          "tipo": "Pacote",
+          "preco": 39.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Nozes Grande",
+          "tipo": "Unidade",
+          "preco": 46.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Nozes Pequeno",
+          "tipo": "Unidade",
+          "preco": 15.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Panhoca",
+          "tipo": "Unidade",
+          "preco": 24.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Pão de Queijo 600 g Pacote",
+          "tipo": "Pacote",
+          "preco": 48.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Parmesão Grande",
+          "tipo": "Unidade",
+          "preco": 46.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Parmesão Médio",
+          "tipo": "Unidade",
+          "preco": 39.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Petrópolis",
+          "tipo": "Unidade",
+          "preco": 33.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Confeitaria",
+      "produtos": [
+        {
+          "nome": "Bolinho de Laranja com Gengibre",
+          "tipo": "Unidade",
+          "preco": 15.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Bolinho de Limão-Siciliano com Mirtilo",
+          "tipo": "Unidade",
+          "preco": 15.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Brigadeiro",
+          "tipo": "Unidade",
+          "preco": 7.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Brownie com Chocolate Branco, Morango e Pistache",
+          "tipo": "Unidade",
+          "preco": 27.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Cookies",
+          "tipo": "Unidade",
+          "preco": 15.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Muffin de Chocolate e Especiarias",
+          "tipo": "Unidade",
+          "preco": 12.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Palha Italiana",
+          "tipo": "Unidade",
+          "preco": 14.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Trufa",
+          "tipo": "Unidade",
+          "preco": 9.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Cafés",
+      "produtos": [
+        {
+          "nome": "Bourbon Amarelo Moído Lata Zanelli",
+          "tipo": "Lata",
+          "preco": 46.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Bourbon Amarelo em Grãos ou Torrado e Moído Pacote Zanelli",
+          "tipo": "Pacote",
+          "preco": 40.99,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        },
+        {
+          "nome": "Mantiqueira Premium Cápsulas Zanelli",
+          "tipo": "Caixa",
+          "preco": 34.9,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Mantiqueira Premium Moído Lata Zanelli",
+          "tipo": "Lata",
+          "preco": 46.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Mantiqueira Premium em Grãos ou Torrado e Moído Pacote Zanelli",
+          "tipo": "Pacote",
+          "preco": 39.99,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Raízes Mantiqueira em Grãos ou Torrado e Moído Pacote Zanelli",
+          "tipo": "Pacote",
+          "preco": 37.99,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        },
+        {
+          "nome": "Nano Reserva do Produtor Garrafa Zanelli",
+          "tipo": "Garrafa",
+          "preco": 79.9,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Geleias",
+      "produtos": [
+        {
+          "nome": "Figada Sítio Palmará",
+          "tipo": "Unidade",
+          "preco": 34.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        },
+        {
+          "nome": "Geleia de Amora Sítio Palmará",
+          "tipo": "Unidade",
+          "preco": 34.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Geleia de Morango Sítio Palmará",
+          "tipo": "Unidade",
+          "preco": 34.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        },
+        {
+          "nome": "Geleia de Uva Sítio Palmará",
+          "tipo": "Unidade",
+          "preco": 34.0,
+          "descricao": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Queijo",
+      "produtos": [
+        {
+          "nome": "Queijo Canastra do Reinaldo O mais Premiado",
+          "tipo": "Unidade",
+          "preco": 40.0,
+          "descricao": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Suco",
+      "produtos": [
+        {
+          "nome": "Suco de Uva Sítio Palmará",
+          "tipo": "Garrafa",
+          "preco": 32.0,
+          "descricao": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
+          "foto": ""
+        }
+      ]
+    },
+    {
+      "nome": "Cestas",
+      "produtos": [
+        {
+          "nome": "Cesta M",
+          "tipo": "Unidade",
+          "preco": 30.0,
+          "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod.",
+          "foto": ""
+        },
+        {
+          "nome": "Cesta G",
+          "tipo": "Unidade",
+          "preco": 40.0,
+          "descricao": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+          "foto": ""
+        }
+      ]
+    }
+  ]
+}
